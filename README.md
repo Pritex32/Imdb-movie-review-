@@ -18,3 +18,8 @@
 - Feature extraction using Count vectorizer.
 - Train a classification model  Naïve Bayes, knn).
 - Evaluate accuracy and performance metrics (confusion_matrix).
+## Importance of this project
+- it enable easy analysis of the reviews
+- It will enable the company to detect movies customers love alot
+- It will enable the model to recommend better movies base on the customer reviews
+- It will help know when a customer is satisfied or not
